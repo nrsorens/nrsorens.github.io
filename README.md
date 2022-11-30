@@ -6,7 +6,7 @@
 
 Kevin Kevin Revolution is a twist on Endless Revolution, originally created by Gary Yeh.
 
-[live]: https://nrsorens.github.io/endless.html
+[live]: https://garyeh.github.io/EndlessRevolution/endless.html
 ![screenshot](docs/screenshot.png)
 
 ### Instructions
