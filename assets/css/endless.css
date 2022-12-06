@@ -161,15 +161,15 @@ h1 {
 }
 
 #light:hover {
-  box-shadow: 1px 1px 1px #ffff80;
+  box-shadow: 1px 1px 1px #ff80ff;
 }
 
 #standard {
-  background-color: #ff80ff;
+  background-color: #80ff80;
 }
 
 #standard:hover {
-  box-shadow: 1px 1px 1px #ff80ff;
+  box-shadow: 1px 1px 1px #ffff80;
 }
 
 #heavy {
